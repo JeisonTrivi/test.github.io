@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+*{ 
+  box-sizing: border-box;
+  font-family: 'Alkatra', cursive;
+} 
+body{
+	background-color: #276e90;
+}
+#header-nav {
+	background-color:black;
+	border-radius:0;
+	border:0;
+}
+#name {
+	color: #fff;
+	
+}
+
+.content div h2{
+	text-align: center;
+}
+
+.content div{
+	border:1px solid black;
+	margin:30px;
+	padding: 10px;
+	background-color: #898989; 
+}
+#myNavbar li{
+	text-align: center;
+	background-color: #898989;
+	color: #fff
+}
+
+#myNavbar li a{
+	color: #fff
+}
